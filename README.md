@@ -1,2 +1,12 @@
 # my-development-blog
-<title> Week 1 </title>
+Week 1:
+I have learned the basics of using HTML & CSS.
+HTML can use tags such as <header>, <p> & <body>
+Where as CSS is used for styling the colors of the text and many other things.
+
+Week 2:
+Learned about Class & ID attributes to style specific elements.
+Able to use google fonts into the HTML.
+
+Week 3:
+
