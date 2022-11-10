@@ -1,7 +1,7 @@
 # my-development-blog
 Week 1:
 I have learned the basics of using HTML & CSS.
-HTML can use tags such as <header>, <p> & <body>
+HTML can use tags such as header p & body
 Where as CSS is used for styling the colors of the text and many other things.
 
 Week 2:
