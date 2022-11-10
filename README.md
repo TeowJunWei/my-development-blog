@@ -11,3 +11,5 @@ Able to use google fonts into the HTML.
 Week 3:
 Learned about flex-boxes, inheritance and creating a media queries.
 All this are used to create websites to make it look nicer. There is also a form that can make surveys.
+
+Week 4:
