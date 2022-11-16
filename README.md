@@ -1,4 +1,5 @@
 # my-development-blog
+
 Week 1:
 I have learned the basics of using HTML & CSS.
 HTML can use tags such as header p & body
@@ -13,3 +14,4 @@ Learned about flex-boxes, inheritance and creating a media queries.
 All this are used to create websites to make it look nicer. There is also a form that can make surveys.
 
 Week 4:
+Hello
